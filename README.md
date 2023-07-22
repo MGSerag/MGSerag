@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,
 
 I'm Mohamad from Egypt, I am interested in Software Development, Game Development and Artificial Intelligence.
 
